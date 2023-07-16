@@ -9,4 +9,9 @@ h3{
 html{
     background-image: url('CV.jpg');
     background-repeat: no-repeat;
+
+}
+div{
+    border-radius: 10px;
+    border-color: chartreuse;
 }
