@@ -1,0 +1,24 @@
+.header{
+    height: 200px;
+    /*background: bisque;*/
+    background-image: url('download.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+ 
+}
+.blog{
+    margin: 30px;
+    border: 10px solid tomato;
+    box-shadow: 20px 20px 20px rgb(240, 84, 84);
+}
+.second{
+    /*visibility: hidden;*/
+    display: none;
+}
+.css{
+    border: 10px solid tomato;
+}

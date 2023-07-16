@@ -3,3 +3,10 @@ p{
     background-color: rgb(255, 0, 234);
     border left: 30%;
 }
+h3{
+    font-size: larger;
+}
+html{
+    background-image: url('CV.jpg');
+    background-repeat: no-repeat;
+}
